@@ -53,7 +53,9 @@ export const settingsAPIs = {
         {url: "wss://eu.nodes.bitshares.works", location: "Central Europe - BitShares Infrastructure Program"},
         {url: "wss://us.nodes.bitshares.works", location: "U.S. West Coast - BitShares Infrastructure Program"},
         {url: "wss://sg.nodes.bitshares.works", location: "Singapore - BitShares Infrastructure Program"},
-        {url: "wss://ws.winex.pro", location: "Singapore"}
+        {url: "wss://ws.winex.pro", location: "Singapore"},
+        {url: "wss://bts.proxyhosts.info/wss", location: "Germany"},
+        {url: "wss://nohistory.proxyhosts.info/wss", location: "Japan"}
     ],
     DEFAULT_FAUCET: "https://faucet.bitshares.eu/onboarding",  // 2017-12-infrastructure worker proposal
     TESTNET_FAUCET: "https://faucet.testnet.bitshares.eu",
